@@ -5,9 +5,4 @@ console.log("Random number:", randomNumber);
 
 console.log("fun");
 
-function getRandomNumber() {
-   return Math.floor(Math.random() * 10)
-}
-
-
 // Path: index.html
